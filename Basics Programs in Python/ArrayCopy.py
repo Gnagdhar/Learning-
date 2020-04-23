@@ -14,3 +14,4 @@ def freq_array(arr1):
     wc=Counter(arr1)
     print(wc)
 freq_array(arr1)
+#comments
