@@ -1,0 +1,8 @@
+set1=set()
+print(set1)
+set1=set([10,10,20,30,40,50])
+print(set1)
+set1.add(100)
+print(set1)
+set2=("HEllo geeks")
+print(set2)
